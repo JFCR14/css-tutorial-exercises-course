@@ -1,10 +1,14 @@
 .orange-btn {
 	display: inline-block;
 	/* your code below */
-    
+	padding: 10px;
+	border-radius: 4px;
+	color: white;
+	background: orange;
+	text-decoration: none;
 }
 
 .orange-btn:hover {
 	/* YOUR CODE HERE FOR THE HOVER STATE */
-
+	background: darkorange;
 }

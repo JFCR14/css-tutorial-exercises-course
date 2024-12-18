@@ -7,6 +7,6 @@ li + #thirditem {
 }
 /**** DO NOT EDIT ANYTHING ABOVE THIS LINE ****/
 
-ul li {
+#thirditem {
 	background: green !important;
 }
